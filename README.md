@@ -1,6 +1,6 @@
 # npmtest-browserify-ngannotate
 
-#### test coverage for  [browserify-ngannotate (v2.0.0)](https://github.com/omsmith/browserify-ngannotate)  [![npm package](https://img.shields.io/npm/v/npmtest-browserify-ngannotate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-browserify-ngannotate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-browserify-ngannotate.svg)](https://travis-ci.org/npmtest/node-npmtest-browserify-ngannotate)
+#### basic test coverage for  [browserify-ngannotate (v2.0.0)](https://github.com/omsmith/browserify-ngannotate)  [![npm package](https://img.shields.io/npm/v/npmtest-browserify-ngannotate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-browserify-ngannotate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-browserify-ngannotate.svg)](https://travis-ci.org/npmtest/node-npmtest-browserify-ngannotate)
 
 #### A browserify transform that uses ng-annotate to add dependency injection annotations to your AngularJS source code, preparing it for minification.
 
